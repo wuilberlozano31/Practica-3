@@ -1,0 +1,30 @@
+.contenedor{
+  margin:auto;
+width: 980px;
+
+    }
+
+    ul{
+        list-style: none;  // quitar estilo de lista UL
+        margin: 0px; //quitar el margen
+        padding: 0px;  //quitar el relleno
+      }
+
+ul li{
+  width: 300px;
+  float: left;
+  border: 1px solid #000;
+  margin: 4px;
+  text-align: center;
+  border-radius: 3px;
+}
+ul li img {
+  width: 50%;
+  height: 50%;
+  border-radius: 20px;
+
+}
+p{
+  text-align: justify;
+  margin: 5px;
+}
